@@ -7,3 +7,5 @@ Targeted potential travel insurance customers via decision tree and logistic reg
 Lenka Raslova, Sean Oberer, Connor Brown, Hope Grubb <br>
 **Data: <br>**
 Kaggle, [link](https://www.kaggle.com/tejashvi14/travel-insurance-prediction-data) for dataset. <br>
+**Tool:** <br>
+SAS <br>
